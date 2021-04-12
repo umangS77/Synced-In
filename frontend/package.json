@@ -1,0 +1,49 @@
+{
+  "name": "template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "emailjs": "^3.4.0",
+    "emailjs-com": "^2.6.4",
+    "emailjs-smtp-client": "^2.0.1",
+    "express-fileupload": "^1.2.1",
+    "fuse.js": "^6.4.6",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-datetime-picker": "^3.0.4",
+    "react-dom": "^16.12.0",
+    "react-fuzzy": "^1.2.0",
+    "react-google-login": "^5.2.2",
+    "react-numeric-input": "^2.2.3",
+    "react-popup": "^0.10.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
